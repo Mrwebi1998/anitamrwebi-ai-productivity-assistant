@@ -69,11 +69,7 @@ function Dashboard() {
             AI-powered productivity
           </div>
           <h1 className="mt-4 text-3xl font-semibold tracking-tight md:text-5xl">
-            Automate the busywork.
-            <br />
-            <span className="bg-[image:var(--gradient-primary)] bg-clip-text text-transparent">
-              Focus on what matters.
-            </span>
+            Anita Mrwebi
           </h1>
           <p className="mt-4 text-base text-muted-foreground md:text-lg">
             A unified AI workspace for emails, meetings, planning, and research — designed for
